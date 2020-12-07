@@ -1,48 +1,57 @@
-{"data":[
-  {
-    "company": "Apple",
-    "description": "job description",
-    "employmentType": "",
-    "id": 1,
-    "location": "Singapore",
-    "position": "Software Engineer",
-    "skillsRequired": []
-  },
-  {
-    "company": "Google",
-    "description": "job description",
-    "employmentType": "",
-    "id": 2,
-    "location": "Hong Kong",
-    "position": "Software Engineering Manager",
-    "skillsRequired": []
-  },
-  {
-    "company": "Microsoft",
-    "description": "job description",
-    "employmentType": "",
-    "id": 3,
-    "location": "Singapore",
-    "position": "System Engineer",
-    "skillsRequired": []
-  },
-  {
-    "company": "DBS",
-    "description": "Expert in Excel",
-    "employmentType": "",
-    "id": 4,
-    "location": "Singapore",
-    "position": "Data Scientist",
-    "skillsRequired": []
-  },
-  {
-    "company": "Smart",
-    "description": "Willing to do improve the UI",
-    "employmentType": "Fulltime",
-    "id": 0,
-    "location": "Philippines",
-    "position": "ReactJS Developer",
-    "skillsRequired": ["ReactJS", "Javascript", "Webpack", "HTML"]
-  }
-]
+{
+	"data": [{
+			"contractNo": "Apple",
+			"priceId": "job description",
+			"fromDate": "12/04/2020",
+			"toDate": "13/05/2021",
+			"id": 1,
+			"rate": "Software Engineer",
+			"uom": "kc",
+			"status": "Approveed by L2"
+		},
+		{
+			"contractNo": "Apple",
+			"priceId": "job description",
+			"fromDate": "12/04/2020",
+			"toDate": "13/05/2021",
+			"id": 2,
+
+			"rate": "Software Engineer",
+			"uom": "kc",
+			"status": "Approveed by L2"
+		},
+		{
+			"contractNo": "Apple",
+			"priceId": "job description",
+			"fromDate": "12/04/2020",
+			"toDate": "13/05/2021",
+			"id": 3,
+
+			"rate": "Software Engineer",
+			"uom": "kc",
+			"status": "Approveed by L2"
+		},
+		{
+			"contractNo": "Apple",
+			"priceId": "job description",
+			"fromDate": "12/04/2020",
+			"toDate": "13/05/2021",
+			"id": 4,
+
+			"rate": "Software Engineer",
+			"uom": "kc",
+			"status": "Approveed by L2"
+		},
+		{
+			"contractNo": "Apple",
+			"priceId": "job description",
+			"fromDate": "12/04/2020",
+			"toDate": "13/05/2021",
+			"id": 5,
+
+			"rate": "Software Engineer",
+			"uom": "kc",
+			"status": "Approveed by L2"
+		}
+	]
 }
