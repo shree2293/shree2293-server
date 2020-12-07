@@ -1,56 +1,52 @@
 {
 	"data": [{
-			"contractNo": "Apple",
-			"priceId": "job description",
-			"fromDate": "12/04/2020",
-			"toDate": "13/05/2021",
+			"contractNo": "ctc-104",
+			"priceId": "ctc-104/1",
+			"fromDate": "1/04/2020",
+			"toDate": "1/05/2021",
 			"id": 1,
 			"rate": "Software Engineer",
-			"uom": "kc",
+			"uom": "uom104",
 			"status": "Approveed by L2"
 		},
 		{
-			"contractNo": "Apple",
-			"priceId": "job description",
-			"fromDate": "12/04/2020",
-			"toDate": "13/05/2021",
+			"contractNo": "ctc-105",
+			"priceId": "ctc-105/1",
+			"fromDate": "2/04/2020",
+			"toDate": "2/05/2021",
 			"id": 2,
-
 			"rate": "Software Engineer",
-			"uom": "kc",
+			"uom": "uom105",
 			"status": "Approveed by L2"
 		},
 		{
-			"contractNo": "Apple",
-			"priceId": "job description",
-			"fromDate": "12/04/2020",
-			"toDate": "13/05/2021",
+			"contractNo": "ctc-106",
+			"priceId": "ctc-106/1",
+			"fromDate": "3/06/2020",
+			"toDate": "3/05/2021",
 			"id": 3,
-
 			"rate": "Software Engineer",
-			"uom": "kc",
+			"uom": "uom106",
 			"status": "Approveed by L2"
 		},
 		{
-			"contractNo": "Apple",
-			"priceId": "job description",
-			"fromDate": "12/04/2020",
-			"toDate": "13/05/2021",
+			"contractNo": "ctc-107",
+			"priceId": "ctc-107/1",
+			"fromDate": "5/04/2020",
+			"toDate": "5/05/2021",
 			"id": 4,
-
 			"rate": "Software Engineer",
-			"uom": "kc",
+			"uom": "uom107",
 			"status": "Approveed by L2"
 		},
 		{
-			"contractNo": "Apple",
-			"priceId": "job description",
-			"fromDate": "12/04/2020",
-			"toDate": "13/05/2021",
+			"contractNo": "ctc-109",
+			"priceId": "ctc-109/1",
+			"fromDate": "9/04/2020",
+			"toDate": "9/05/2021",
 			"id": 5,
-
 			"rate": "Software Engineer",
-			"uom": "kc",
+			"uom": "uom109",
 			"status": "Approveed by L2"
 		}
 	]
