@@ -1,4 +1,4 @@
-[
+{"data":[
   {
     "company": "Apple",
     "description": "job description",
@@ -45,3 +45,4 @@
     "skillsRequired": ["ReactJS", "Javascript", "Webpack", "HTML"]
   }
 ]
+}
