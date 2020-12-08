@@ -1,53 +1,21 @@
 {
-	"data": [{
-			"contractNo": "ctc-104",
-			"priceId": "ctc-104/1",
-			"fromDate": "1/04/2020",
-			"toDate": "1/05/2021",
-			"id": 1,
-			"rate": "Software Engineer",
-			"uom": "uom104",
-			"status": "Approveed by L2"
-		},
-		{
-			"contractNo": "ctc-105",
-			"priceId": "ctc-105/1",
-			"fromDate": "2/04/2020",
-			"toDate": "2/05/2021",
-			"id": 2,
-			"rate": "Software Engineer",
-			"uom": "uom105",
-			"status": "Approveed by L2"
-		},
-		{
-			"contractNo": "ctc-106",
-			"priceId": "ctc-106/1",
-			"fromDate": "3/06/2020",
-			"toDate": "3/05/2021",
-			"id": 3,
-			"rate": "Software Engineer",
-			"uom": "uom106",
-			"status": "Approveed by L2"
-		},
-		{
-			"contractNo": "ctc-107",
-			"priceId": "ctc-107/1",
-			"fromDate": "5/04/2020",
-			"toDate": "5/05/2021",
-			"id": 4,
-			"rate": "Software Engineer",
-			"uom": "uom107",
-			"status": "Approveed by L2"
-		},
-		{
-			"contractNo": "ctc-109",
-			"priceId": "ctc-109/1",
-			"fromDate": "9/04/2020",
-			"toDate": "9/05/2021",
-			"id": 5,
-			"rate": "Software Engineer",
-			"uom": "uom109",
-			"status": "Approveed by L2"
+	"data": {
+		"status": 200,
+		"message": "Success.",
+		"responseBody": {
+			"authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RpZCI6IkFzaHV0b3NoLk1pdHRhbCIsImF1ZCI6InVybjpBc2h1dG9zaC5NaXR0YWwiLCJpYXQiOjE2MDc0MDU4MDgsImV4cCI6MTYwNzQ5MjIwOH0.UwHIWxwjBOgOZIEP3dYm2fmhUVO6cwg7G_k_BnHXoGw",
+			"userDetails": {
+				"Name": "RELIANCE INDUSTRIES LIMITED..",
+				"BANO": "A154765",
+				"RoleName": "GSPAUser",
+				"Status": 0,
+				"LoginStatus": 0,
+				"LockedStatus": 0,
+				"SubRoleID": 4,
+				"loginHistoryId": 3427,
+				"userId": "Ashutosh.Mittal",
+				"password": "1E-B9-DE-17-E3-63-95-EF-48-A2-A3-79-32-90-8D-EE"
+			}
 		}
-	]
+	}
 }
